@@ -1,0 +1,6068 @@
+{
+    "0": {
+        "flag": 1,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/0.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625359.3119626,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1591,
+                            1302,
+                            1681,
+                            1374
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/0.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625359.3696709,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/0.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625359.4345407,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/0.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625359.4999368,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "1": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/1.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625360.2650037,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1600,
+                            1316,
+                            1703,
+                            1401
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/1.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625360.3449442,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/1.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625360.4337566,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/1.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625360.5212402,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "2": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/2.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625361.3178098,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1611,
+                            1334,
+                            1730,
+                            1433
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/2.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625361.3959906,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/2.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625361.4861803,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/2.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625361.5731707,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "3": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/3.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625362.4189517,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1625,
+                            1354,
+                            1763,
+                            1471
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/3.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625362.496719,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/3.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625362.5844307,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/3.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625362.6725276,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "4": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/4.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625363.4479804,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1641,
+                            1377,
+                            1803,
+                            1517
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/4.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625363.527846,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/4.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625363.6177351,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/4.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625363.7060852,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "5": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/5.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625364.5000658,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1400,
+                            1850,
+                            1569
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/5.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625364.578511,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/5.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625364.66864,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/5.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625364.757015,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "6": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/6.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625365.5627935,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/6.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625365.6408913,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/6.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625365.728769,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/6.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625365.8171663,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "7": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/7.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625366.611765,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/7.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625366.68942,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/7.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625366.779026,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/7.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625366.8657749,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "8": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/8.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625367.6490936,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/8.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625367.7264192,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/8.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625367.814815,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1821,
+                            289,
+                            1905,
+                            371
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/8.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625367.9034324,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "9": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/9.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625368.6863637,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/9.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625368.7644968,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/9.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625368.8527167,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1820,
+                            294,
+                            1907,
+                            379
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/9.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625368.9398134,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "10": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/10.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625369.725981,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/10.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625369.804063,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/10.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625369.892644,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1818,
+                            308,
+                            1914,
+                            403
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1685,
+                            253,
+                            1783,
+                            363
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/10.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625369.97933,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "11": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/11.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625370.778632,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/11.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625370.856869,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/11.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625370.9450471,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1816,
+                            324,
+                            1922,
+                            431
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1683,
+                            252,
+                            1782,
+                            362
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/11.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625371.0317464,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2006,
+                            220,
+                            2086,
+                            307
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1857,
+                            157,
+                            1973,
+                            318
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    },
+    "12": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/12.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625371.8364155,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/12.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625371.9144528,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1656,
+                            1126,
+                            1773,
+                            1277
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/12.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625372.0046,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1814,
+                            338,
+                            1930,
+                            459
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1679,
+                            254,
+                            1781,
+                            368
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/12.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625372.0928078,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2012,
+                            233,
+                            2101,
+                            331
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1847,
+                            164,
+                            1976,
+                            344
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    },
+    "13": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/13.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625372.891477,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1474,
+                            1303,
+                            1543,
+                            1370
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/13.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625372.970691,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1663,
+                            1133,
+                            1799,
+                            1306
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/13.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625373.060235,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1814,
+                            339,
+                            1930,
+                            458
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1672,
+                            259,
+                            1779,
+                            378
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/13.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625373.1495993,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2018,
+                            248,
+                            2117,
+                            356
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1836,
+                            172,
+                            1980,
+                            371
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    },
+    "14": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/14.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625373.9645793,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1469,
+                            1315,
+                            1546,
+                            1392
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/14.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625374.043182,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1673,
+                            1140,
+                            1831,
+                            1342
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/14.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625374.133534,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1814,
+                            339,
+                            1930,
+                            458
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            267,
+                            1775,
+                            397
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/14.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625374.2204976,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2025,
+                            264,
+                            2134,
+                            384
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1825,
+                            181,
+                            1984,
+                            402
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    },
+    "15": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/15.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625375.0419674,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1462,
+                            1333,
+                            1551,
+                            1423
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/15.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625375.1205509,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1683,
+                            1148,
+                            1868,
+                            1385
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/15.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625375.2108214,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1814,
+                            339,
+                            1930,
+                            458
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1638,
+                            280,
+                            1768,
+                            427
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/15.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625375.2994745,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2032,
+                            280,
+                            2153,
+                            414
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1807,
+                            189,
+                            1982,
+                            433
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    },
+    "16": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/16.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625376.1063561,
+            "Lane1": {
+                "total_vehicles": 2,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1597,
+                            1308,
+                            1672,
+                            1373
+                        ],
+                        "label": 1
+                    },
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1455,
+                            1353,
+                            1557,
+                            1460
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -3
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/16.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625376.1847048,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1695,
+                            1157,
+                            1912,
+                            1434
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/16.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625376.2737384,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1814,
+                            339,
+                            1930,
+                            458
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1621,
+                            291,
+                            1763,
+                            450
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/16.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625376.3610075,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2039,
+                            297,
+                            2174,
+                            445
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1779,
+                            199,
+                            1981,
+                            470
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    },
+    "17": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/17.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625377.1777883,
+            "Lane1": {
+                "total_vehicles": 2,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1608,
+                            1324,
+                            1694,
+                            1400
+                        ],
+                        "label": 1
+                    },
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1448,
+                            1376,
+                            1566,
+                            1505
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -3
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/17.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625377.2561886,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1703,
+                            1163,
+                            1948,
+                            1477
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/17.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625377.34364,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1814,
+                            339,
+                            1930,
+                            458
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1605,
+                            299,
+                            1759,
+                            473
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/17.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625377.430633,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2052,
+                            323,
+                            2226,
+                            490
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1685,
+                            211,
+                            1983,
+                            522
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    },
+    "18": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/18.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625378.264941,
+            "Lane1": {
+                "total_vehicles": 2,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1620,
+                            1342,
+                            1720,
+                            1432
+                        ],
+                        "label": 1
+                    },
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1441,
+                            1403,
+                            1578,
+                            1558
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -3
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/18.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625378.3466942,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1703,
+                            1165,
+                            1948,
+                            1475
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/18.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625378.4357977,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1814,
+                            339,
+                            1930,
+                            458
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1597,
+                            305,
+                            1756,
+                            484
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/18.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625378.5249143,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2131,
+                            368,
+                            2452,
+                            594
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1417,
+                            226,
+                            1940,
+                            585
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    },
+    "19": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/19.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625379.3686082,
+            "Lane1": {
+                "total_vehicles": 2,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1626,
+                            1351,
+                            1731,
+                            1445
+                        ],
+                        "label": 1
+                    },
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1437,
+                            1414,
+                            1582,
+                            1580
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -3
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/19.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625379.4471712,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1703,
+                            1165,
+                            1948,
+                            1475
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/19.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625379.5376575,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1814,
+                            339,
+                            1930,
+                            458
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1583,
+                            313,
+                            1752,
+                            503
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/19.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625379.6294818,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "20": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/20.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625380.4568899,
+            "Lane1": {
+                "total_vehicles": 2,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1633,
+                            1361,
+                            1745,
+                            1464
+                        ],
+                        "label": 1
+                    },
+                    {
+                        "coordinates": [
+                            1659,
+                            1403,
+                            1851,
+                            1569
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1437,
+                            1414,
+                            1582,
+                            1580
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -3
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/20.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625380.537396,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1703,
+                            1165,
+                            1948,
+                            1475
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1458,
+                            1276,
+                            1650,
+                            1376
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/20.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712625380.6277757,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1814,
+                            339,
+                            1930,
+                            458
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1535,
+                            329,
+                            1746,
+                            541
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/20.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712625380.71615,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "21": {
+        "flag": 1,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/21.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626420.5228686,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/21.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626420.597338,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/21.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626420.6839418,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/21.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626420.7869892,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "22": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/22.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626421.6322055,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/22.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626421.7058265,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/22.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626421.7907188,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/22.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626421.8752227,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "23": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/23.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626422.7054906,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1594,
+                            1291,
+                            1687,
+                            1384
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/23.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626422.7789667,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/23.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626422.8639722,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/23.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626422.9498,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "24": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/24.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626423.7952015,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1605,
+                            1306,
+                            1712,
+                            1414
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/24.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626423.868843,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/24.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626423.9537606,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/24.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626424.0382345,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "25": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/25.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626424.8731847,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1617,
+                            1322,
+                            1742,
+                            1449
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/25.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626424.9452026,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/25.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626425.032441,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/25.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626425.1189477,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "26": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/26.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626425.9708664,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1631,
+                            1341,
+                            1778,
+                            1492
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/26.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626426.044907,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/26.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626426.1330369,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/26.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626426.2205,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "27": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/27.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626427.0763395,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1648,
+                            1363,
+                            1823,
+                            1542
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/27.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626427.151113,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/27.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626427.2440386,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/27.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626427.337235,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "28": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/28.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626428.2508674,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1656,
+                            1372,
+                            1843,
+                            1564
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/28.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626428.326877,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/28.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626428.4148464,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/28.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626428.50268,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "29": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/29.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626429.3838825,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1656,
+                            1372,
+                            1843,
+                            1564
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/29.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626429.4577746,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/29.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626429.5455365,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/29.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626429.6317594,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "30": {
+        "flag": 1,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/30.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626494.2691536,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1578,
+                            1228,
+                            1703,
+                            1386
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/30.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626494.345425,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/30.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626494.4343097,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/30.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626494.5226266,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "31": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/31.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626495.294872,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1584,
+                            1232,
+                            1723,
+                            1409
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/31.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626495.3757248,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/31.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626495.4660423,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/31.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626495.5546818,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "32": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/32.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626496.3232896,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1592,
+                            1238,
+                            1751,
+                            1440
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/32.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626496.4002178,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/32.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626496.487609,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/32.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626496.5759532,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "33": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/33.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626497.470578,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1603,
+                            1245,
+                            1788,
+                            1482
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/33.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626497.5516243,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/33.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626497.6401086,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/33.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626497.7289648,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "34": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/34.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626498.5362842,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1614,
+                            1254,
+                            1836,
+                            1531
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/34.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626498.6130662,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/34.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626498.7009933,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/34.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626498.78749,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "35": {
+        "flag": 1,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/35.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626525.6553097,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1578,
+                            1228,
+                            1703,
+                            1386
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/35.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626525.742708,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/35.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626525.8323455,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/35.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626525.9190707,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "36": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/36.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626526.7298453,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1584,
+                            1232,
+                            1723,
+                            1409
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/36.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626526.8164475,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/36.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626526.9051607,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/36.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626526.993783,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "37": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/37.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626527.801737,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1592,
+                            1238,
+                            1751,
+                            1440
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/37.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626527.8867536,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/37.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626527.9762223,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/37.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626528.0646856,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "38": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/38.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626528.9892623,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1603,
+                            1245,
+                            1788,
+                            1482
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/38.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626529.0744846,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/38.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626529.163473,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/38.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626529.251373,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "39": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/39.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626530.058319,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1614,
+                            1254,
+                            1836,
+                            1531
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/39.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626530.143464,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/39.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626530.232608,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/39.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626530.3207445,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "40": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/40.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626531.1215663,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1625,
+                            1260,
+                            1880,
+                            1579
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/40.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626531.208885,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/40.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626531.2978516,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/40.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626531.386482,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "41": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/41.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626532.1802545,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1625,
+                            1262,
+                            1881,
+                            1578
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/41.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626532.2653117,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/41.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626532.3545046,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/41.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626532.44289,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "42": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/42.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626533.2692,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1625,
+                            1261,
+                            1881,
+                            1579
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/42.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626533.35607,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/42.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626533.4456847,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1825,
+                            296,
+                            1901,
+                            367
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/42.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626533.5336885,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "43": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/43.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626534.3282015,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1625,
+                            1261,
+                            1881,
+                            1579
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/43.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626534.427265,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/43.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626534.516476,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1824,
+                            301,
+                            1903,
+                            375
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/43.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626534.6049342,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "44": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/44.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626535.4160388,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1625,
+                            1261,
+                            1881,
+                            1579
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/44.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626535.5013943,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/44.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626535.5900953,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1823,
+                            314,
+                            1908,
+                            396
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1695,
+                            294,
+                            1775,
+                            359
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/44.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626535.6787977,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1876,
+                            223,
+                            1959,
+                            300
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        }
+    },
+    "45": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/45.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626536.4614213,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1625,
+                            1261,
+                            1881,
+                            1579
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/45.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626536.550257,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/45.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626536.6413178,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1821,
+                            332,
+                            1916,
+                            424
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1690,
+                            298,
+                            1773,
+                            366
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/45.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626536.728318,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2004,
+                            229,
+                            2088,
+                            309
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1869,
+                            237,
+                            1960,
+                            323
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    },
+    "46": {
+        "flag": 1,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/46.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626563.8851242,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/46.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626563.968181,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/46.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626564.0650206,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/46.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626564.154448,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "47": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/47.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626564.982888,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1563,
+                            1212,
+                            1731,
+                            1389
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/47.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626565.0668254,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/47.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626565.1591191,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/47.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626565.2502954,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "48": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/48.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626566.0852005,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1569,
+                            1217,
+                            1762,
+                            1420
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/48.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626566.170028,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/48.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626566.261483,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/48.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626566.3529,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "49": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/49.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626567.2131927,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1576,
+                            1221,
+                            1800,
+                            1458
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/49.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626567.2966173,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/49.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626567.385928,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/49.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626567.4736445,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "50": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/50.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626568.2571402,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1584,
+                            1226,
+                            1845,
+                            1503
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/50.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626568.3417916,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/50.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626568.4309897,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/50.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626568.519148,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "51": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/51.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626569.3749645,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1593,
+                            1232,
+                            1903,
+                            1558
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/51.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626569.459273,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/51.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626569.5478964,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/51.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626569.634773,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "52": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/52.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626570.4386852,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1596,
+                            1233,
+                            1920,
+                            1574
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/52.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626570.5408912,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/52.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626570.627852,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/52.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626570.7137291,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "53": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/53.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626571.5136266,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1596,
+                            1234,
+                            1920,
+                            1574
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/53.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626571.5969841,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/53.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626571.6842544,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1821,
+                            289,
+                            1905,
+                            371
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/53.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626571.7727711,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "54": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/54.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626572.5963783,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1596,
+                            1234,
+                            1920,
+                            1573
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/54.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626572.681306,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/54.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626572.7692294,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1820,
+                            294,
+                            1907,
+                            379
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/54.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626572.858165,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "55": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/55.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626573.6881356,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1596,
+                            1234,
+                            1920,
+                            1573
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/55.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626573.7712224,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/55.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626573.8571131,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1818,
+                            308,
+                            1914,
+                            403
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1698,
+                            291,
+                            1772,
+                            360
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/55.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626573.943704,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        }
+    },
+    "56": {
+        "flag": 0,
+        "A": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/A/56.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626574.789688,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 1,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1596,
+                            1234,
+                            1920,
+                            1573
+                        ],
+                        "label": 0
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -1
+            }
+        },
+        "B": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/B/56.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626574.873018,
+            "Lane1": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Lane2": {
+                "total_vehicles": 0,
+                "stopped_vehicles": 0,
+                "vehicles": []
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": 0
+            }
+        },
+        "C": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/C/56.jpg",
+            "traffic_light": "Red",
+            "timestamp": 1712626574.962334,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1816,
+                            324,
+                            1922,
+                            431
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1692,
+                            296,
+                            1770,
+                            368
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        },
+        "D": {
+            "image": "/home/local/ASURITE/tchen169/Documents/CV4TSC/rough/RL_Model/Infinity_traffic_time/D/56.jpg",
+            "traffic_light": "Green",
+            "timestamp": 1712626575.0491195,
+            "Lane1": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            2005,
+                            238,
+                            2085,
+                            305
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Lane2": {
+                "total_vehicles": 1,
+                "stopped_vehicles": 0,
+                "vehicles": [
+                    {
+                        "coordinates": [
+                            1880,
+                            239,
+                            1952,
+                            312
+                        ],
+                        "label": 1
+                    }
+                ]
+            },
+            "Rewards": {
+                "waiting_time": 0,
+                "throughput": 0,
+                "queue_length": -2
+            }
+        }
+    }
+}

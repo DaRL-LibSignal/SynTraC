@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+__pycache__/
+d3rlpy_logs/
+model/
+Dataset/
+*.jpg
+*.__pycache__
+*.pyc
+.ipynb_checkpoints/
+*.pth
+anthem_data/
+Dockerfile
