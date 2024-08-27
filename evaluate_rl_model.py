@@ -311,6 +311,7 @@ def save_frames_and_update_json(frame_count, cameras, camera_json, dict_traffic_
 			for x in range(4):
 				folder = chr(ord('A') + x)
 				image_path = camera_json[list(camera_json.keys())[-1]][folder]["image"]
+				# print(image_path)
 
 				# Process the image to get lane detections
 				left_lane_detections, right_lane_detections = object_model.process_image_for_detections(image_path, None, lane_2d_data, folder, distance_threshold=100)

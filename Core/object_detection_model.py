@@ -73,7 +73,7 @@ class Object_Detection_Model:
 		# Convert vehicle_labels list to a tensor and move it to the same self.device as the model's predictions
 		vehicle_labels_tensor = torch.tensor(vehicle_labels).to(prediction[0]['labels'].device)
 
-		print(f"Total Detections by model for camera {folder} : {len(prediction[0])}")
+		# print(f"Total Detections by model for camera {folder} : {prediction}")
 		
 		left_count = 0
 		right_count = 0

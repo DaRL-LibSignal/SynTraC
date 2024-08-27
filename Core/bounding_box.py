@@ -82,7 +82,10 @@ class TravelTime():
 
 	@classmethod
 	def avg_travel_time(cls):
-		return TravelTime.total_travel_time/TravelTime.destination_reached
+		if TravelTime.destination_reached!=0:
+			return TravelTime.total_travel_time/TravelTime.destination_reached
+		else:
+			return 0
 			
 #Calculate queue length
 def calculate_queue_length(data):

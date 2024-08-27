@@ -9,6 +9,20 @@ The SynTraC dataset is now available on Hugging Face. You can download it using 
 [![SynTraC Dataset on Hugging Face](https://img.shields.io/badge/SynTraC-Dataset-yellow)](https://huggingface.co/datasets/Prithvi180900/SynTraC)
 
 
+## Docker Support
+Command to Pull the Image:
+```bash
+docker pull prithvi180900/my_carla_app
+```
+
+Run the Docker Image
+```bash
+sudo docker run --privileged --gpus all --net=host prithvi180900/my_carla_app
+```
+<br>
+
+
+
 # Installation
 
 
@@ -124,13 +138,17 @@ For more detailed guidance, refer to this link: [Training PyTorch RetinaNet on C
 
 ![alt text](Images/image2.png) -->
 
-## Docker Support
-Dockerfile is coming soon. Stay tuned!
 
 <br>
 
 # Citation
-
-    
+```
+@article{chen2024syntrac,
+  title={SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras},
+  author={Chen, Tiejin and Shirke, Prithvi and Chakravarthi, Bharatesh and Vaghela, Arpitsinh and Da, Longchao and Lu, Duo and Yang, Yezhou and Wei, Hua},
+  journal={arXiv preprint arXiv:2408.09588},
+  year={2024}
+}
+```
 
 
