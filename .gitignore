@@ -10,4 +10,3 @@ Dataset/
 .ipynb_checkpoints/
 *.pth
 anthem_data/
-Dockerfile
