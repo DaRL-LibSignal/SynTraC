@@ -146,8 +146,9 @@ For more detailed guidance, refer to this link: [Training PyTorch RetinaNet on C
 @article{chen2024syntrac,
   title={SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras},
   author={Chen, Tiejin and Shirke, Prithvi and Chakravarthi, Bharatesh and Vaghela, Arpitsinh and Da, Longchao and Lu, Duo and Yang, Yezhou and Wei, Hua},
-  journal={arXiv preprint arXiv:2408.09588},
-  year={2024}
+  booktitle={2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
