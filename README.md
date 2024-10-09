@@ -1,6 +1,6 @@
 # SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras
 
-SynTraC is the first public dataset designed for image-based traffic signal control. It bridges the gap between simulated environments and real-world traffic challenges by offering high-resolution images from the CARLA simulator, complete with annotations of traffic signal states and vehicle features. 
+[SynTraC](https://arxiv.org/abs/2408.09588) is the first public dataset designed for image-based traffic signal control. It bridges the gap between simulated environments and real-world traffic challenges by offering high-resolution images from the CARLA simulator, complete with annotations of traffic signal states and vehicle features. 
 
 ## Dataset on Hugging Face
 
